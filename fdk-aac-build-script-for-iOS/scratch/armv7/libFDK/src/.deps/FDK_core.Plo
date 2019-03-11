@@ -1,0 +1,14 @@
+libFDK/src/FDK_core.lo: \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/src/FDK_core.cpp \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_core.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/FDK_audio.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/machine_type.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/genericStds.h
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_core.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/FDK_audio.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/machine_type.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/genericStds.h:

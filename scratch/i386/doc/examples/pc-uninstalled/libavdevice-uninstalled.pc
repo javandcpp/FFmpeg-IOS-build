@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}/../../../libavdevice
+includedir=/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/ffmpeg-4.1
+
+Name: libavdevice
+Description: FFmpeg device handling library
+Version: 58.5.100
+Requires:  libavfilter >= 7.40.101,  libswscale >= 5.3.100,  libavformat >= 58.20.100,  libavcodec >= 58.35.100,  libswresample >= 3.3.100,  libavutil >= 56.22.100
+Conflicts:
+Libs: -L${libdir} -Wl,-rpath,${libdir} -lavdevice -framework Foundation -lm -framework AVFoundation -framework CoreVideo -framework CoreMedia -pthread
+Cflags: -I${includedir}

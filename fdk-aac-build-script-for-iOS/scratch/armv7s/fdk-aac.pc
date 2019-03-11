@@ -1,0 +1,11 @@
+prefix=/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/thin/armv7s
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Fraunhofer FDK AAC Codec Library
+Description: AAC codec library
+Version: 0.1.5
+Libs: -L${libdir} -lfdk-aac 
+Libs.private: 
+Cflags: -I${includedir}

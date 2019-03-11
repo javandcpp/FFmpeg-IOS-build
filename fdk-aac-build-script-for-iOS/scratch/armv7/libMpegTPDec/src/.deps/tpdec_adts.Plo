@@ -1,0 +1,29 @@
+libMpegTPDec/src/tpdec_adts.lo: \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPDec/src/tpdec_adts.cpp \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPDec/src/tpdec_adts.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPDec/include/tpdec_lib.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPDec/include/tp_data.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/machine_type.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/FDK_audio.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/genericStds.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitstream.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitbuffer.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_crc.h
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPDec/src/tpdec_adts.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPDec/include/tpdec_lib.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPDec/include/tp_data.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/machine_type.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/FDK_audio.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/genericStds.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitstream.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitbuffer.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_crc.h:

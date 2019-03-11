@@ -1,0 +1,119 @@
+libAACenc/src/sf_estim.lo: \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/sf_estim.cpp \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/sf_estim.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/common_fix.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_archdef.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/machine_type.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixmul.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/aarch64/fixmul_aarch64.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/abs.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/clz.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/aarch64/clz_aarch64.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixmadd.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixminmax.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/cplx_mul.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/scale.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/genericStds.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/../src/scale.cpp \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixpoint_math.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/psy_const.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/qc_data.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/dyn_bits.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacenc_tns.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/adj_thr_data.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/line_pe.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/FDK_audio.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/interface.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/psy_data.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/block_switch.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacEnc_rom.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/psy_configuration.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacenc.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPEnc/include/tpenc_lib.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPEnc/include/tp_data.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitstream.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitbuffer.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSBRenc/include/sbr_encoder.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacenc_pns.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/pnsparam.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_tools_rom.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/quantize.h \
+  /Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/bit_cnt.h
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/sf_estim.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/common_fix.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_archdef.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/machine_type.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixmul.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/aarch64/fixmul_aarch64.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/abs.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/clz.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/aarch64/clz_aarch64.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixmadd.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixminmax.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/cplx_mul.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/scale.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/genericStds.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/../src/scale.cpp:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/fixpoint_math.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/psy_const.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/qc_data.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/dyn_bits.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacenc_tns.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/adj_thr_data.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/line_pe.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSYS/include/FDK_audio.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/interface.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/psy_data.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/block_switch.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacEnc_rom.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/psy_configuration.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacenc.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPEnc/include/tpenc_lib.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libMpegTPEnc/include/tp_data.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitstream.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_bitbuffer.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libSBRenc/include/sbr_encoder.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/aacenc_pns.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/pnsparam.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libFDK/include/FDK_tools_rom.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/quantize.h:
+
+/Users/huaweichang/Downloads/FFmpeg-ios-master/FFmpeg-iOS-build-script-master/fdk-aac-build-script-for-iOS/fdk-aac-0.1.5/libAACenc/src/bit_cnt.h:
